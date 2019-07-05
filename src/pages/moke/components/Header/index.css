@@ -1,0 +1,19 @@
+.nav_area {
+    height: 70px;
+    line-height: 70px;
+}
+
+.nav_wrap {
+    position: absolute;
+    right: 30px;
+    width: auto;
+}
+
+.bread_area {
+    border-top: 1px solid bisque;
+}
+
+.bread_wrap {
+    height: 30px;
+}
+

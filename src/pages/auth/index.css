@@ -1,0 +1,28 @@
+.wrapper{
+    width:100%;
+    height:100%;
+    background-color: salmon;
+    display:grid;
+    grid-template-rows:80px auto 0px;
+    grid-template-columns:100%
+}
+
+.header {
+    background-color: wheat;
+}
+
+.content {
+    background-color: salmon;
+}
+
+.pic_nav_box {
+    float: right;
+    margin-right: 33px;
+}
+
+.login_register_form_box {
+    width: 330px;
+    margin: 33px 33px 0 0;
+    float: right;
+}
+

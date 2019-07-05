@@ -1,0 +1,15 @@
+.hide {
+    display: none;
+}
+
+.toolbar {
+    text-align: left;
+}
+
+.toolbar button {
+    margin-right: 8px;
+}
+
+.toolbar>div{
+    padding: 6px 32px!important;
+}

@@ -1,0 +1,15 @@
+.register_form {
+    width: 100%;
+    padding: 30px 30px 30px 30px;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    background-color: wheat;
+}
+
+.register_button {
+    width: 100%;
+}
+
+.goto_login {
+    vertical-align: -30%;
+}

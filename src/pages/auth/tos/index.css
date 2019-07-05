@@ -1,0 +1,25 @@
+.wrapper {
+    width: 100%;
+    max-width: 1200px;
+    margin: 20px auto;
+    font-family: '微软雅黑,Microsoft YaHei,宋体,SimSun,黑体, SimHei';
+}
+
+.title {
+    font-size: 20px;
+    text-align: center;
+}
+
+.time {
+    font-size: 16px;
+    text-align: right;
+    padding-right: 200px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.content {
+    font-size: 16px;
+}

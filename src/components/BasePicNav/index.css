@@ -1,0 +1,29 @@
+.nav_icon {
+    display: block;
+    font-size: 30px;
+}
+
+.nav_ul{
+    display: inline-block;
+    padding: 8px 0;
+    margin-bottom: 0;
+}
+
+.nav_ul li {
+    float: left;
+}
+
+.nav_ul li a {
+    display: inline-block;
+    padding: 0 13px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.nav_ul li a span {
+    display: block;
+    font-size: 13px;
+    font-weight: 500;
+    margin-top: 3px;
+    color: black;
+}

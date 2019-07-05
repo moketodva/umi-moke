@@ -1,0 +1,13 @@
+.logo {
+    width: 100%;
+    height: 100px;
+}
+
+.menu {
+    background-color: salmon;
+    overflow-y: auto;
+}
+
+.menu > ul {
+    border: none;
+}
