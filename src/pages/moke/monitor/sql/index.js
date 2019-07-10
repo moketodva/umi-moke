@@ -16,7 +16,7 @@ export default class Index extends React.Component {
                 //     });
                 // }}
                 ref="iframe"
-                src="http://118.190.204.124:8080/druid/login.html"
+                src=# druid地址
                 width="100%"
                 height='600'
                 // scrolling="no"
