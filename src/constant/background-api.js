@@ -1,5 +1,5 @@
 export default {
-    baseUrl: 'http://118.190.204.124/api',
+    baseUrl: # 后端api根路径,
     // baseUrl: 'http://localhost:8000/api',
     captcha:{
         id:{
