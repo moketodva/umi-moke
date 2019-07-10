@@ -34,7 +34,7 @@ export default {
     },
     // proxy: {
     //     '/api': {
-    //         target: 'http://118.190.204.124:8080',
+    //         target: # 地址,
     //         changeOrigin: true,
     //         pathRewrite: { '^/api' : ''}
     //     }
